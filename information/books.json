@@ -1,0 +1,27 @@
+{
+    "information":[
+        {
+            "id":1,
+            "Writer": "Gustav Nilsson",
+            "Book": "Change the world"
+        },
+        {
+            "id":2,
+            "Writer": "Adam Svensson",
+            "Book": "Destroy the house"
+        },
+        {
+            "id":3,
+            "Writer": "Heminghway",
+            "Book": "Love the World"
+        },
+        {
+            "id":4,
+            "Writer": "Voltaire",
+            "Book": "Messages"
+        }
+    ],
+    "offset": 10,
+    "limit": 25,
+    "total": 4
+}
