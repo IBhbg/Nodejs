@@ -3,7 +3,7 @@ const router = express.Router()
 const mongo = require('mongoose')
 mongo.Promise = global.Promise
 
-mongo.connect('mongodb://localhost:27017/db1',{userNewUrlParser: true, userUnitfieldTopology: true});
+mongo.connect('mongodb://localhost:27017');
 
 const petsDog = new mongo.Schema({
     name:String
